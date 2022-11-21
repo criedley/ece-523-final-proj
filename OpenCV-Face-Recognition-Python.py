@@ -1,6 +1,6 @@
 
 # Face Recognition with OpenCV
-# test push to main
+# sdfasf
 # To detect faces, I will use the code from my previous article on [face detection](https://www.superdatascience.com/opencv-face-detection/). So if you have not read it, I encourage you to do so to understand how face detection works and its Python coding. 
 
 import cv2
